@@ -3,7 +3,7 @@
 
 <?php
 echo "Hello Word"
-print "<br> Sedanh Belajar PHP"
+print "<br> Sedanh Belajar PHP";
 
 ?>
 </body>
